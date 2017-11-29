@@ -1,0 +1,17 @@
+body {
+	background-color: #517274;
+}
+
+button,
+.btn,
+.btn-default {
+	color: #3A5E5F;
+	text-shadow: 0 1px 0 #72553C;
+	background-image: none;
+	background-color: #C0A186;
+	border-color: #72553C;
+}
+
+.topic {
+	margin: 10px;
+}
